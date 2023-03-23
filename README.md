@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analysis 
 - 🌱 I’m currently learning Python, Ai, ML
 - 💞️ I’m looking to collaborate on different projects 
-- 📫 Insta @Rahul.13
+- 📫 Insta @Rahul_13
 
 <!---
 Mritunjay13/Mritunjay13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
